@@ -1,0 +1,6 @@
+{
+  "name": "LuQRcode",
+  "description": "A minimalist, modern, and compact QR code generator with single-view design and high accessibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
